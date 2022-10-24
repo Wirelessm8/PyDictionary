@@ -1,0 +1,22 @@
+салом;привет;hello (ваалейкум салом) для ответа"- салом всалом(неформальное для переписки);all,word
+хайр;пока;;all,word
+субҳ;утро;;all,word
+бегоҳ;вечер;;all,word
+руз;день;;all,word 
+шаб;ночь;;all,word
+субҳ ба хайр;доброе утро;;all,phrase
+шаби хуш;спокойной ночи;;all,phrase
+нағз;хорошо,добро;;all,word
+бад,ганда;плохо;;all,word
+аломати сакта;твёрдый знак;;all,phrase
+рақамҳо;цыфры;;all,word
+як;1;;all,number
+ду;2;;all,number
+се;3;;all,number
+чор;4;;all,number
+панҷ;5;;all,number
+шаш;6;;all,number
+хафт;7;;all,number
+ҳашт;8;;all,number
+ну (нуҳ);9;;all,number
+да (даҳ);10;;all,number
